@@ -1,27 +1,29 @@
-### 项目简介
+### Introduction
 
-本项目为一个基于相关jar包(如,org.jaudiotagger 等)的,音乐相关的工具类库.
+[中文版](https://github.com/YuJian95/imusic/blob/master/README_zh.md)
 
-相关理论知识,可查看 [这篇博客](https://yujian95.cn/p/d2d1.html)
+This project is a library of music-related-operation tools based on related jars (e.g.,org.jaudiotagger, etc.).
 
-**目前已完成的功能**
+Related theory knowledge, can look at [This Blog](https://yujian95.cn/p/d2d1.html)
 
-- 获取 mp3音乐文件中的信息 (歌手,歌曲名称,专辑名称,播放时长)
+**Has complete functions**
 
-### 项目规范
+- Access to the information in the mp3 music files (singer, song name, album title, the broadcast time)
 
-**项目结构**
-- main 主程序代码
-    - java 代码
-        - model 存放相关音乐模型
-        - util 工具类方法
-    - resource 项目相关资源
+### Specification
 
-- test 测试代码
-    - java 代码
-        - util 测试工具类方法
-    - resource 测试项目相关资源
+**Project structure**
+- main : The main program code
+    - java : Java code
+        - model : Store related music models
+        - util : Tool class method
+    - resource : Project-related resources
 
-**代码规范**
+- test : The code of test
+    - java : Java code
+        - util : Tool class method of test
+    - resource : Project-related resources of test
 
-- 代码规范遵循 `阿里巴巴java开发手册`
+**Code specification**
+
+- Follow the code rules ` alibaba Java development manual`
